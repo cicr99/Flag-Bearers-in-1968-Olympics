@@ -1,0 +1,420 @@
+{
+    "1968": {
+        "AR": {
+            "name": "Carlos Moratorio",
+            "gender": "m",
+            "sport": "equitación",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "AU": {
+            "name": "Bill Roycroft",
+            "gender": "m",
+            "sport": "Hockey sobre hierba",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "MY": {
+            "name": "Nashatar Singh Sidhu",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "East Germany": {
+            "name": "Karin Balzer",
+            "gender": "",
+            "sport": "Atletismo (atletismo)",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "SV": {
+            "name": "Salvador Vilanova",
+            "gender": "",
+            "sport": "Nadando",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "ET": {
+            "name": "Abebe Bikila",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "AT": {
+            "name": "Roland Losert",
+            "gender": "",
+            "sport": "Esgrima",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "CA": {
+            "name": "Roger Jackson",
+            "gender": "m",
+            "sport": "Remo",
+            "colective": true,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "DK": {
+            "name": "Erik Hansen",
+            "gender": "",
+            "sport": "Canotaje",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "FJ": {
+            "name": "Viliame Liga",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "SL": {
+            "name": "John Coker",
+            "gender": "",
+            "sport": "Boxeo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "SE": {
+            "name": "Rolf Peterson",
+            "gender": "",
+            "sport": "carreras de canoas",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "NI": {
+            "name": "Don Vélez",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "NO": {
+            "name": "Berit Berthelsen",
+            "gender": "",
+            "sport": "Atletismo (atletismo)",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "PK": {
+            "name": "Tariq Aziz",
+            "gender": "",
+            "sport": "Hockey sobre hierba",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "PL": {
+            "name": "Waldemar Baszanowski",
+            "gender": "",
+            "sport": "Levantamiento de pesas",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "CH": {
+            "name": "Paul Weier",
+            "gender": "",
+            "sport": "equitación",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "BR": {
+            "name": "João Gonçalves Filho",
+            "gender": "",
+            "sport": "Polo acuático",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "GT": {
+            "name": "Teodoro Palacios",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "HU": {
+            "name": "Gergely Kulcsár",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "IS": {
+            "name": "Guðmundur Hermannsson",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "IR": {
+            "name": "Ovaness Meguerdounian",
+            "gender": "",
+            "sport": "esquí alpino",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "MT": {
+            "name": "Louis Grasso",
+            "gender": "",
+            "sport": "",
+            "colective": false,
+            "role": "Oficial",
+            "best_result": "Participante"
+        },
+        "MX": {
+            "name": "David Bárcena",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "MN": {
+            "name": "Khorloogiin Bayanmönkh",
+            "gender": "",
+            "sport": "Lucha",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "UY": {
+            "name": "Ana María",
+            "gender": "",
+            "sport": "Nadando",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "West Germany": {
+            "name": "Wilfried Dietrich",
+            "gender": "",
+            "sport": "Lucha",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "Yugoslavia": {
+            "name": "Branislav Simić",
+            "gender": "",
+            "sport": "Lucha",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "PR": {
+            "name": "Jaime Frontera",
+            "gender": "",
+            "sport": "Baloncesto",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "RO": {
+            "name": "Aurel Vernescu",
+            "gender": "",
+            "sport": "Remo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "CL": {
+            "name": "Rolf Hoppe",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "CO": {
+            "name": "Ricardo González",
+            "gender": "",
+            "sport": "Nadando",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "CU": {
+            "name": "Héctor Ramírez",
+            "gender": "",
+            "sport": "Gimnasia",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "Czechoslovakia": {
+            "name": "Bohumil Golián",
+            "gender": "",
+            "sport": "Vóleibol",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "IE": {
+            "name": "Jim McCourt",
+            "gender": "",
+            "sport": "Boxeo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "IL": {
+            "name": "Gershon Shefa",
+            "gender": "",
+            "sport": "Natación",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "JP": {
+            "name": "Yukio Endo",
+            "gender": "",
+            "sport": "Gimnasia",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "Soviet Union": {
+            "name": "Leonid Zhabotinsky",
+            "gender": "",
+            "sport": "Levantamiento de pesas",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "US": {
+            "name": "Janice Romary",
+            "gender": "f",
+            "sport": "Esgrima",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "VG": {
+            "name": "Leston Sprauve",
+            "gender": "m",
+            "sport": "Levantamiento de pesas",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "TT": {
+            "name": "Roger Gibbon",
+            "gender": "",
+            "sport": "Ciclismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "TR": {
+            "name": "Gürbüz Lü",
+            "gender": "",
+            "sport": "Lucha",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "ES": {
+            "name": "Gonzalo Fernández",
+            "gender": "",
+            "sport": "Navegación",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "SR": {
+            "name": "Eddy Monsels",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "BE": {
+            "name": "Gaston Roelants",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "BM": {
+            "name": "Whitfield \"Chummy\" Hayward",
+            "gender": "",
+            "sport": "Presidente de la Junta de Auditores",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "FI": {
+            "name": "Pentti Linnosvuo",
+            "gender": "",
+            "sport": "tiro deportivo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "FR": {
+            "name": "Kiki Caron",
+            "gender": "",
+            "sport": "Nadando",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "GR": {
+            "name": "Christos Papanikolaou",
+            "gender": "",
+            "sport": "Atletismo (salto con pértiga)",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "NL": {
+            "name": "Fred van Dorp",
+            "gender": "m",
+            "sport": "Polo acuático",
+            "colective": true,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "PT": {
+            "name": "José Quina",
+            "gender": "",
+            "sport": "Navegación",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        },
+        "GB": {
+            "name": "Lynn Davies",
+            "gender": "",
+            "sport": "Atletismo",
+            "colective": false,
+            "role": "Deportista",
+            "best_result": "Participante"
+        }
+    }
+}

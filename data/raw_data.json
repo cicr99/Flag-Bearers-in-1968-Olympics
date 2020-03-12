@@ -1,0 +1,387 @@
+{
+    "Argentina": {
+        "#": 11.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Carlos Moratorio",
+        "Sex": "M",
+        "Province/country": "Corrientes",
+        "Sport": " Equestrianism",
+        "Ref.\n": "[24]\n"
+    },
+    "Australia": {
+        "#": 13.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer (oc)": "Bill Roycroft",
+        "Sport": "Equestrian",
+        "Flag bearer (cc)": "Eric Pearce",
+        "Sport\n": "Field hockey\n"
+    },
+    "Malaysia": {
+        "#": 2.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Nashatar Singh Sidhu",
+        "Sport\n": "Athletics\n"
+    },
+    "East Germany": {
+        "#": 2.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Karin Balzer",
+        "Sport\n": "Athletics (track and field)\n"
+    },
+    "El Salvador": {
+        "#": 1.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Salvador Vilanova",
+        "Gender": "Male",
+        "Department": "San Salvador",
+        "Sport\n": "Swimming\n"
+    },
+    "Ethiopia": {
+        "#": 2.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Abebe Bikila",
+        "Sport\n": "Athletics\n"
+    },
+    "Austria": {
+        "#": 13.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Roland Losert",
+        "Sport\n": "Fencing\n"
+    },
+    "Canada": {
+        "#": "?",
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "",
+        "Sport": "",
+        "\n": "\n"
+    },
+    "Denmark": {
+        "#": 19.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Erik Hansen",
+        "Sport\n": "Canoeing\n"
+    },
+    "Fiji": {
+        "#": 1.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "National flag": "",
+        "Flag bearer": "Viliame Liga",
+        "Sport\n": "Athletics\n"
+    },
+    "Sierra Leone": {
+        "#": 1.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "John Coker",
+        "Sport\n": "Boxing\n"
+    },
+    "Sweden": {
+        "#": 25.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Rolf Peterson",
+        "Sport\n": "Canoe racing\n"
+    },
+    "Nicaragua": {
+        "#": 1.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Don Vélez",
+        "Sport\n": "Athletics\n"
+    },
+    "Norway": {
+        "#": 22.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Berit Berthelsen",
+        "Sport\n": "Athletics (track and field)\n"
+    },
+    "Pakistan": {
+        "#": 6.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Tariq Aziz",
+        "Sport\n": "Field hockey\n"
+    },
+    "Poland": {
+        "#": 20.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Waldemar Baszanowski",
+        "Sport\n": "Weightlifting\n"
+    },
+    "Switzerland": {
+        "#": 13.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Paul Weier",
+        "Sport\n": "Equestrianism\n"
+    },
+    "Brazil": {
+        "#": 10.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "João Gonçalves Filho",
+        "Sport\n": "Water polo\n"
+    },
+    "Guatemala": {
+        "#": 2.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Teodoro Palacios",
+        "Sport\n": "Athletics\n"
+    },
+    "Hungary": {
+        "#": 21.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Gergely Kulcsár",
+        "Sport\n": "Athletics\n"
+    },
+    "Iceland": {
+        "#": 13.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Guðmundur Hermannsson",
+        "Sport\n": "Athletics\n"
+    },
+    "Iran": {
+        "#": 8.0,
+        "Event year": 1968.0,
+        "Season": "Winter",
+        "Flag bearer": "Ovaness Meguerdounian",
+        "Sport\n": "Alpine skiing\n"
+    },
+    "Malta": {
+        "#": 4.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Louis Grasso",
+        "Sport\n": "\n"
+    },
+    "Mexico": {
+        "#": 10.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "David Bárcena",
+        "Sport\n": "Athletics\n"
+    },
+    "Mongolia": {
+        "#": 4.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Khorloogiin Bayanmönkh",
+        "Sport\n": "Wrestling\n"
+    },
+    "Uruguay": {
+        "#": 6.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Ana María",
+        "Sport\n": "Swimming\n"
+    },
+    "West Germany": {
+        "#": 2.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Wilfried Dietrich",
+        "Sport\n": "Wrestling\n"
+    },
+    "Yugoslavia": {
+        "#": 18.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Branislav Simić",
+        "Sport\n": "Wrestling\n"
+    },
+    "Puerto Rico": {
+        "#": 6.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Jaime Frontera",
+        "Sport\n": "Basketball\n"
+    },
+    "Romania": {
+        "#": 8.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Aurel Vernescu",
+        "Sport\n": "\n"
+    },
+    "San Marino": {
+        "#": 2.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "",
+        "Sport\n": "\n"
+    },
+    "Chile": {
+        "#": 13.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Rolf Hoppe",
+        "Sport\n": "Athletics\n"
+    },
+    "Colombia": {
+        "#": 6.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Ricardo González",
+        "Sport\n": "Swimming\n"
+    },
+    "Cuba": {
+        "#": 7.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Héctor Ramírez",
+        "Sport\n": "Gymnastics\n"
+    },
+    "Czechoslovakia": {
+        "#": 18.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Bohumil Golián",
+        "Sport\n": "Volleyball\n"
+    },
+    "Ireland": {
+        "#": 10.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Jim McCourt",
+        "Sport\n": "Boxing\n"
+    },
+    "Israel": {
+        "#": 5.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Opening flag bearer": "Gershon Shefa[7]",
+        "Sport": "Swimming",
+        "Closing flag bearer": "",
+        "Sport\n": "\n"
+    },
+    "Japan": {
+        "#": 15.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Yukio Endo",
+        "Sport\n": "Gymnastics\n"
+    },
+    "the Soviet Union": {
+        "#": 9.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Leonid Zhabotinsky",
+        "Sport\n": "Weightlifting\n"
+    },
+    "the United States": {
+        "#": 24.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Ceremony": "Opening",
+        "Flag bearer": "Janice Romary",
+        "Sex": "F",
+        "State/Country": "California",
+        "Sport\n": "Fencing\n"
+    },
+    "the Virgin Islands": {
+        "#": 1.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Leston Sprauve",
+        "Sport\n": "Weightlifting\n"
+    },
+    "Trinidad and Tobago": {
+        "#": 5.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Roger Gibbon",
+        "Sport\n": "Cycling\n"
+    },
+    "Turkey": {
+        "#": 17.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Gürbüz Lü",
+        "Sport\n": "Wrestling\n"
+    },
+    "Spain": {
+        "#": 16.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Gonzalo Fernández",
+        "Sport\n": "Sailing\n"
+    },
+    "Suriname": {
+        "#": 2.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Eddy Monsels",
+        "Sport\n": "Athletics\n"
+    },
+    "Belgium": {
+        "#": 10.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Gaston Roelants",
+        "Sport\n": "Athletics\n"
+    },
+    "Bermuda": {
+        "#": 6.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Whitfield \"Chummy\" Hayward",
+        "Sport\n": "President of BOA\n"
+    },
+    "Finland": {
+        "#": 23.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Pentti Linnosvuo",
+        "Sport\n": "Shooting sport\n"
+    },
+    "France": {
+        "#": 21.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Kiki Caron",
+        "Sport\n": "Swimming\n"
+    },
+    "Greece": {
+        "#": 19.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Christos Papanikolaou",
+        "Sport\n": "Athletics (pole vault)\n"
+    },
+    "the Netherlands": {
+        "#": 20.0,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Fred van Dorp",
+        "Sport\n": "Water polo\n"
+    },
+    "Portugal": {
+        "#": 1,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "José Quina",
+        "Sport\n": "Sailing\n"
+    },
+    "Great Britain": {
+        "#": 22,
+        "Event year": 1968.0,
+        "Season": "Summer",
+        "Flag bearer": "Lynn Davies",
+        "Sport\n": "Athletics\n"
+    }
+}
